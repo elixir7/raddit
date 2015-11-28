@@ -1,28 +1,16 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###Reddit Clone 
 
-Things you may want to cover:
+This is a reddit clone call raddit with the normal CRUD functions, up/downvote, user verification anc login.
 
-* Ruby version
+###Setup
 
-* System dependencies
+To get up and running, clone this repo by running <tt>git clone https://github.com/elixir7/raddit</tt> in your terminal.
+Then run <tt>bundle install</tt> to fetch and install all gems.
+After that run <tt>rake db:migrate</tt> to migrate the darabase. (You might have to add "RAILS_ENV=development" if you want to go into development mode)
+Then start your server with the <tt>rails server</tt> command.
 
-* Configuration
+###Styling
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This application is styled with ease by bootstrap.
