@@ -1,16 +1,9 @@
 == README
 
-###Reddit Clone 
+#Blog
 
-This is a reddit clone call raddit with the normal CRUD functions, up/downvote, user verification anc login.
+Week 2 of the 12 Web Apps in 12 Weaks. This time it's a blog!
 
-###Setup
+##Live Demo
 
-To get up and running, clone this repo by running <tt>git clone https://github.com/elixir7/raddit</tt> in your terminal.
-Then run <tt>bundle install</tt> to fetch and install all gems.
-After that run <tt>rake db:migrate</tt> to migrate the darabase. (You might have to add "RAILS_ENV=development" if you want to go into development mode)
-Then start your server with the <tt>rails server</tt> command.
-
-###Styling
-
-This application is styled with ease by bootstrap.
+You can find a live demo here 
