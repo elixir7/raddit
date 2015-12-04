@@ -1,9 +1,9 @@
 == README
 
-#Blog
+# Raddit
 
-Week 2 of the 12 Web Apps in 12 Weaks. This time it's a blog!
+Week 1 of the 12 Web Apps in 12 Weaks. This time it's a blog!
 
-##Live Demo
+## Live Demo
 
 You can find a live demo here https://powerful-wave-9626.herokuapp.com/
